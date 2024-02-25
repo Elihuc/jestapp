@@ -1,7 +1,7 @@
 export const toUpperCase = (arg: string) => {
     return arg.toUpperCase();
 }
-
+//npm i -D typescript jest ts-jest @types/jest ts-node
 export type StringTesting = {
     lowercase: string,
     uppercase: string,
